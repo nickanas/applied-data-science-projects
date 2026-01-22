@@ -1,0 +1,1503 @@
+[
+  {
+    "qid": "q_1",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United FC score for matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 7
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md1-8"
+    ]
+  },
+  {
+    "qid": "q_2",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many points did Manchester United FC take in matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 11
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md1-8"
+    ]
+  },
+  {
+    "qid": "q_3",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many points did Everton FC take in matchdays 9-16",
+    "answer": {
+      "type": "number",
+      "value": 8
+    },
+    "gold_document_ids": [
+      "Everton FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_4",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many losses did Newcastle United FC have in matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Newcastle United FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_5",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals had Nottingham Forest FC scored in the first half in matchday 33?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Nottingham Forest FC__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_6",
+    "difficulty":"1",
+    "answer_type": "number",
+    "question": "How many points did Liverpool FC earn in matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 21
+    },
+
+    "gold_document_ids": [
+      "Liverpool FC__md1-8"
+    ]
+  },
+  {
+    "qid" : "q_7",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many wins did Liverpool FC have in matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+
+    "gold_document_ids": [
+      "Liverpool FC__md9-16"
+    ]
+  },
+  {
+    "qid" : "q_8",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many wins did Manchester City FC have in matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 6
+    },
+
+    "gold_document_ids": [
+      "Manchester City FC__md1-8"
+    ]
+  },
+  {
+    "qid" : "q_9",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many wins did Chelsea FC have in matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+
+    "gold_document_ids": [
+      "Chelsea FC__md1-8"
+    ]
+  },
+  {
+    "qid" : "q_10",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many wins did Everton FC have in matchdays 1-8?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+
+    "gold_document_ids": [
+      "Everton FC__md1-8"
+    ]
+  },
+
+
+
+
+  {
+    "qid" : "q_11",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many points did AFC Bournemouth earn in matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 25
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth__md1-8",
+      "AFC Bournemouth__md9-16"
+    ]
+  },
+  {
+    "qid" : "q_12",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many wins did Southampton FC have in matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 1
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_13",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals had Nottingham Forest FC scored in total for matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 21
+    },
+    "gold_document_ids": [
+      "Nottingham Forest FC__md1-8",
+      "Nottingham Forest FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_14",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many points did Arsenal FC take in total for matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 30
+    },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_15",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many draws did West Ham United FC have in total for matchdays 9-16 and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "West Ham United FC__md9-16",
+      "West Ham United FC__md17-24"
+    ]
+  },
+  {
+    "qid": "q_16",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals against did Aston Villa FC have in total for matchdays 25-32 and matchdays 33-38?",
+    "answer": {
+      "type": "number",
+      "value": 14
+    },
+    "gold_document_ids": [
+      "Aston Villa FC__md25-32",
+      "Aston Villa FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_17",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "What was the total goal difference for Brentford FC for 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Brentford FC__md1-8",
+      "Brentford FC__md9-16"
+    ]
+  },
+  {
+    "qid" : "q_18",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many draws did Everton FC have in matchdays 1-8, and 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 7
+    },
+
+    "gold_document_ids": [
+      "Everton FC__md1-8",
+      "Everton FC__md9-16"
+    ]
+  },
+  {
+    "qid" : "q_19",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many points did AFC Bournemouth earn in matchdays 1-8, and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 25
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth__md1-8",
+      "AFC Bournemouth__md9-16"
+    ]
+  },
+  {
+    "qid" : "q_20",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question":"How many wins did Southampton FC had in matchdays 1-8 and matchdays 9-16?" ,
+    "answer": {
+      "type": "number",
+      "value": 1
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16"
+    ]
+  },
+
+
+
+
+
+
+
+  {
+    "qid" : "q_21",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many points did AFC Bournemouth earn in matchdays 1-8, matchdays 9-16, and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 40
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth__md1-8",
+      "AFC Bournemouth__md9-16",
+      "AFC Bournemouth__md17-24"
+    ]
+  },
+  {
+    "qid" : "q_22",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How draws did AFC Bournemouth have in matchdays 1-8, matchdays 9-16, and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 7
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth FC__md1-8",
+      "AFC Bournemouth FC__md9-16",
+      "AFC Bournemouth FC__md17-24"
+    ]
+  },
+  {
+    "qid" : "q_23",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many wins did Southampton FC have in matchdays 1-8, matchdays 9-16, and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16",
+      "Southampton FC__md17-24"
+    ]
+  },
+  {
+    "qid" : "q_24",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many losses did Southampton FC have in matchdays 1-8, matchdays 9-16, and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 19
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16",
+      "Southampton FC__md17-24"
+    ]
+  },
+  {
+    "qid" : "q_25",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many goals did Chelsea FC concede in matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 29
+    },
+
+    "gold_document_ids": [
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md25-32"
+    ]
+  },
+  {
+    "qid" : "q_26",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many wins did Chelsea FC have in matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 11
+    },
+
+    "gold_document_ids": [
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md25-32"
+    ]
+  },
+  {
+    "qid" : "q_27",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many points did Ipswich Town FC earn in matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 17
+    },
+
+    "gold_document_ids": [
+      "Ipswich Town FC__md9-16",
+      "Ipswich Town FC__md17-24",
+      "Ipswich Town FC__md25-32"
+    ]
+  },
+  {
+    "qid" : "q_28",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many goals did Ipswich Town FC score in matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 27
+    },
+
+    "gold_document_ids": [
+      "Ipswich Town FC__md9-16",
+      "Ipswich Town FC__md17-24",
+      "Ipswich Town FC__md25-32"
+    ]
+  },
+  {
+    "qid" : "q_29",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many goals did Wolverhampton Wanderers FC score in matchdays 1-8, matchdays 9-16 and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 34
+    },
+
+    "gold_document_ids": [
+      "Wolverhampton Wanderers FC__md1-8",
+      "Wolverhampton Wanderers FC__md9-16",
+      "Wolverhampton Wanderers FC__md17-24"
+      
+    ]
+  },
+  {
+    "qid" : "q_30",
+    "difficulty":"3" ,
+    "answer_type": "number",
+    "question": "How many draws did Wolverhampton Wanderers FC have in matchdays 1-8, matchdays 9-16 and matchdays 17-24?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+
+    "gold_document_ids": [
+      "Wolverhampton Wanderers FC__md1-8",
+      "Wolverhampton Wanderers FC__md9-16",
+      "Wolverhampton Wanderers FC__md17-24"
+      
+    ]
+  },
+
+
+
+
+
+
+
+  {
+    "qid": "q_31",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many goals did Brentford FC score in total for matchdays 1-8, matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 52
+    },
+    "gold_document_ids": [
+      "Brentford FC__md1-8",
+      "Brentford FC__md9-16",
+      "Brentford FC__md17-24",
+      "Brentford FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_32",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many more goals did Leicester City FC score in matchdays 1-8 and matchdays 9-16, than Crystal Palace FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Leicester City FC__md1-8",
+      "Leicester City FC__md9-16",
+      "Crystal Palace FC__md1-8",
+      "Crystal Palace FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_33",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many games did Crystal Palace FC win in total in matchdays 9-16, matchdays 17-24, matchdays 25-32 and 33-38?",
+    "answer": {
+      "type": "number",
+      "value": 13
+    },
+    "gold_document_ids": [
+      "Crystal Palace FC__md9-16",
+      "Crystal Palace FC__md17-24",
+      "Crystal Palace FC__md25-32",
+      "Crystal Palace FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_34",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many more wins in total did Manchester City FC have than Chelsea FC in matchdays 25-32 and matchdays 33-38?",
+    "answer": {
+      "type": "number",
+      "value": 8
+    },
+    "gold_document_ids": [
+      "Chelsea FC__md25-32",
+      "Chelsea FC__md33-38",
+      "Manchester City FC__md25-32",
+      "Manchester City FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_35",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many losses did Tottenham Hotspur FC have in total in matchdays 1-8, matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 17
+    },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md1-8",
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md17-24",
+      "Tottenham Hotspur FC__md25-32"
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "qid" : "q_41",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did AFC Bournemouth earn the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 56
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth__md1-8",
+      "AFC Bournemouth__md9-16",
+      "AFC Bournemouth__md17-24",
+      "AFC Bournemouth__md25-32",
+      "AFC Bournemouth__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_42",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many draws did AFC Bournemouth had the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 11
+    },
+
+    "gold_document_ids": [
+      "AFC Bournemouth__md1-8",
+      "AFC Bournemouth__md9-16",
+      "AFC Bournemouth__md17-24",
+      "AFC Bournemouth__md25-32",
+      "AFC Bournemouth__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_43",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many wins did Southampton FC have in the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16",
+      "Southampton FC__md17-24",
+      "Southampton FC__md25-32",
+      "Southampton FC__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_44",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Liverpool FC score in the season?",
+    "answer": {
+      "type": "number",
+      "value":86
+    },
+
+    "gold_document_ids": [
+      "Liverpool FC__md1-8",
+      "Liverpool FC__md9-16",
+      "Liverpool FC__md17-24",
+      "Liverpool FC__md25-32",
+      "Liverpool FC__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_45",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Southampton FC score in the season?",
+    "answer": {
+      "type": "number",
+      "value": 26
+    },
+
+    "gold_document_ids": [
+      "Southampton FC__md1-8",
+      "Southampton FC__md9-16",
+      "Southampton FC__md17-24",
+      "Southampton FC__md25-32",
+      "Southampton FC__md33-38"
+    ]
+  },
+  {
+    "qid" : "q_46",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Chelsea FC score the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 64
+    },
+
+    "gold_document_ids": [
+      "Chelsea FC__md1-8",
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md25-32",
+      "Chelsea FC__md33-38"
+    ]
+  },
+{
+    "qid" : "q_47",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Manchester city score the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 72
+    },
+
+    "gold_document_ids": [
+      "Manchester City FC__md1-8",
+      "Manchester City FC__md9-16",
+      "Manchester City FC__md17-24",
+      "Manchester City FC__md25-32",
+      "Manchester City FC__md33-38"
+    ]
+  },
+{
+    "qid" : "q_48",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United score the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 44
+    },
+
+    "gold_document_ids": [
+      "Manchester United FC__md1-8",
+      "Manchester United FC__md9-16",
+      "Manchester United FC__md17-24",
+      "Manchester United FC__md25-32",
+      "Manchester United FC__md33-38"
+    ]
+  },
+{
+    "qid" : "q_49",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Arsenal FC score the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 69
+    },
+
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32",
+      "Arsenal FC__md33-38"
+    ]
+  },
+{
+    "qid" : "q_50",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many goals did Newcastle score in the whole season?",
+    "answer": {
+      "type": "number",
+      "value": 68
+    },
+
+    "gold_document_ids": [
+      "Newcastle United FC__md1-8",
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32",
+      "Newcastle United FC__md33-38"
+    ]
+},
+{
+    "qid": "q_36",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many wins did Tottenham Hotspur FC have in total in matchdays 1-8, matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 11
+    },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md1-8",
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md17-24",
+      "Tottenham Hotspur FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_37",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many more wins did Aston Villa FC have than West Ham United FC in matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Aston Villa FC__md1-8",
+      "Aston Villa FC__md9-16",
+      "West Ham United FC__md1-8",
+      "West Ham United FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_38",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many more goals did Aston Villa FC score than West Ham United FC in matchdays 1-8 and matchdays 9-16?",
+    "answer": {
+      "type": "number",
+      "value": 3
+    },
+    "gold_document_ids": [
+      "Aston Villa FC__md1-8",
+      "Aston Villa FC__md9-16",
+      "West Ham United FC__md1-8",
+      "West Ham United FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_39",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many draws did Newcastle United have in matchdays 1-8, matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 5
+    },
+    "gold_document_ids": [
+      "Newcastle United FC__md1-8",
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_40",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "What was Newcastle United FC's cumulative goal difference in matchdays 1-8, matchdays 9-16, matchdays 17-24 and matchdays 25-32?",
+    "answer": {
+      "type": "number",
+      "value": 21
+    },
+    "gold_document_ids": [
+      "Newcastle United FC__md1-8",
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32"
+    ]
+  },
+
+  {
+    "qid": "q_51",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Liverpool FC score in the home game against Manchester City FC?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Liverpool FC__md9-16"
+    ]
+  },
+
+  {
+    "qid": "q_52",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Manchester City FC score in the away game against Liverpool FC?",
+    "answer": {
+      "type": "number",
+      "value": 0
+    },
+    "gold_document_ids": [
+      "Manchester City FC__md9-16"
+    ]
+  },
+
+    {
+    "qid": "q_53",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Liverpool FC score in the game away game against Manchester City FC?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Liverpool FC__md25-32"
+    ]
+  },
+
+    {
+    "qid": "q_54",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Manchester City score in the home game against Liverpool FC?",
+    "answer": {
+      "type": "number",
+      "value": 0
+    },
+    "gold_document_ids": [
+      "Manchester City FC__md25-32"
+    ]
+  },
+
+    {
+    "qid": "q_55",
+    "difficulty": "1",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United FC score in the home game Manchester United FC vs Newcastle United FC?",
+    "answer": {
+      "type": "number",
+      "value": 0
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md17-24"
+    ]
+  },
+
+
+      {
+    "qid": "q_56",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United FC score in total, in both games, against Newcastle United FC?",
+    "answer": {
+      "type": "number",
+      "value": 1
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md17-24",
+      "Manchester United FC__md25-32"
+    ]
+  },
+
+        {
+    "qid": "q_57",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals did Newcastle United FC score in total against Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 6
+    },
+    "gold_document_ids": [
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32"
+    ]
+  },
+
+
+        {
+    "qid": "q_58",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many points did Tottenham Hotspur FC take in total against Aston Villa FC?",
+    "answer": {
+      "type": "number",
+      "value": 3
+    },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_59",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals did Tottenham Hotspur FC score in total against Aston Villa FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md33-38"
+    ]
+  },
+
+          {
+    "qid": "q_60",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many goals did Aston Villa FC score in total against Tottenham Hotspur FC?",
+    "answer": {
+      "type": "number",
+      "value": 3
+    },
+    "gold_document_ids": [
+      "Aston Villa FC__md9-16",
+      "Aston Villa FC__md33-38"
+    ]
+  },
+
+
+      {
+    "qid": "q_61",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many goals did Wolverhampton Wanderers FC score in the games Wolverhampton Wanderers FC vs Manchester City FC, Wolverhampton Wanderers FC vs Tottenham Hotspur FC and Wolverhampton Wanderers FC vs Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 7
+    },
+    "gold_document_ids": [
+      "Wolverhampton Wanderers FC__md1-8",
+      "Wolverhampton Wanderers FC__md17-24",
+      "Wolverhampton Wanderers FC__md25-32"
+    ]
+  },
+
+  {
+    "qid": "q_62",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United FC concede in the games Liverpool FC vs Manchester United FC, Chelsea FC vs Manchester United FC and Manchester City FC vs Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md17-24",
+      "Manchester United FC__md9-16",
+      "Manchester United FC__md33-38"
+    ]
+  },
+
+    {
+    "qid": "q_63",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many goals did Manchester United FC score in the games Liverpool FC vs Manchester United FC, Chelsea FC vs Manchester United FC and Manchester City FC vs Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Manchester United FC__md17-24",
+      "Manchester United FC__md9-16",
+      "Manchester United FC__md33-38"
+    ]
+  },
+
+
+      {
+    "qid": "q_64",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many points did Wolverhampton Wanderers FC take in the games Wolverhampton Wanderers FC vs Manchester City FC, Wolverhampton Wanderers FC vs Tottenham Hotspur FC and Wolverhampton Wanderers FC vs Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 6
+    },
+    "gold_document_ids": [
+      "Wolverhampton Wanderers FC__md1-8",
+      "Wolverhampton Wanderers FC__md17-24",
+      "Wolverhampton Wanderers FC__md25-32"
+    ]
+  },
+
+      {
+    "qid": "q_65",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many goals did Wolverhampton Wanderers FC concede in the games Wolverhampton Wanderers FC home vs Manchester City FC, Wolverhampton Wanderers FC home vs Tottenham Hotspur FC and Wolverhampton Wanderers FC home vs Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Wolverhampton Wanderers FC__md1-8",
+      "Wolverhampton Wanderers FC__md17-24",
+      "Wolverhampton Wanderers FC__md25-32"
+    ]
+  },
+        {
+    "qid": "q_66",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many goals did Arsenal FC concede in total, in the home and away games against Chelsea FC and against Tottenham Hotspur FC?",
+    "answer": {
+      "type": "number",
+      "value": 2
+    },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32"
+    ]
+  },
+        {
+    "qid": "q_67",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many goals did Arsenal FC score in total in the home and away games against Chelsea FC and Tottenham Hotspur FC?",
+    "answer": {
+      "type": "number",
+      "value": 5
+    },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32"
+    ]
+  },
+        {
+    "qid": "q_68",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many points did Arsenal FC win in total in the home and away games against Chelsea FC and Tottenham Hotspur FC?",
+    "answer": {
+      "type": "number",
+      "value": 10
+    },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32"
+    ]
+  },
+
+        {
+    "qid": "q_69",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many wins did Chelsea FC have in total in the home and away games against Manchester City FC and Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 1
+    },
+    "gold_document_ids": [
+      "Chelsea FC__md1-8",
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md33-38"
+    ]
+  },
+        {
+    "qid": "q_70",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many points did Chelsea FC take in total in the home and away games against Manchester City FC and Manchester United FC?",
+    "answer": {
+      "type": "number",
+      "value": 4
+    },
+    "gold_document_ids": [
+      "Chelsea FC__md1-8",
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_71",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did Chelsea FC take in total in both home and away games, in the games Chelsea FC vs Tottenham Hotspur FC, Chelsea FC vs Arsenal FC, Chelsea FC vs West Ham United FC Chelsea FC vs Crystal Palace FC and Chelsea FC vs Fulham FC?",
+    "answer": {
+      "type": "number",
+      "value": 18
+    },
+    "gold_document_ids": [
+      "Chelsea FC__md1-8",
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md25-32",
+      "Chelsea FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_72",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did Arsenal FC take in total in both home and away games, in the games Arsenal FC vs Tottenham Hotspur FC, Arsenal FC vs Chelsea, Arsenal FC vs West Ham United FC Arsenal FC vs Crystal Palace FC and Arsenal FC vs Fulham FC?",
+    "answer": {
+      "type": "number",
+      "value": 21
+    },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32",
+      "Arsenal FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_73",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did Tottenham Hotspur FC take in total in both home and away games, in the games Tottenham Hotspur FC vs Arsenal FC, Tottenham Hotspur FC vs Chelsea, Tottenham Hotspur FC vs West Ham United FC, Tottenham Hotspur FC vs Crystal Palace FC and Tottenham Hotspur FC vs Fulham FC?",
+    "answer": {
+      "type": "number",
+      "value": 5
+    },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md1-8",
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md17-24",
+      "Tottenham Hotspur FC__md25-32",
+      "Tottenham Hotspur FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_74",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did West Ham United FC take in total in both home and away games, in the games West Ham United FC vs Arsenal FC, West Ham United FC vs Chelsea, West Ham United FC vs Tottenham Hotspur FC, West Ham United FC vs Crystal Palace FC and West Ham United FC vs Fulham FC?",
+    "answer": {
+      "type": "number",
+      "value": 7
+    },
+    "gold_document_ids": [
+      "West Ham United FC__md1-8",
+      "West Ham United FC__md9-16",
+      "West Ham United FC__md17-24",
+      "West Ham United FC__md25-32",
+      "West Ham United FC__md33-38"
+    ]
+  },
+
+        {
+    "qid": "q_75",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many points did Crystal Palace FC take in total in both home and away games, in the games Crystal Palace FC vs Arsenal FC, Crystal Palace FC vs Chelsea, Crystal Palace FC vs Tottenham Hotspur FC, Crystal Palace FC vs Crystal Palace FC and Fulham FC vs  West Ham United FC?",
+    "answer": {
+      "type": "number",
+      "value": 15
+    },
+    "gold_document_ids": [
+      "Crystal Palace FC__md1-8",
+      "Crystal Palace FC__md9-16",
+      "Crystal Palace FC__md17-24",
+      "Crystal Palace FC__md25-32",
+      "Crystal Palace FC__md33-38"
+    ]
+  },
+
+
+
+  {
+    "qid": "q_101",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many matches did Liverpool FC play in matchdays 1-8?",
+    "answer": { "type": "number", "value": 8 },
+    "gold_document_ids": ["Liverpool FC__md1-8"]
+  },
+  {
+    "qid": "q_102",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many home matches did Arsenal FC play in matchdays 1-16?",
+    "answer": { "type": "number", "value": 8 },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_103",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many away matches did Chelsea FC play in matchdays 9-16?",
+    "answer": { "type": "number", "value": 4 },
+    "gold_document_ids": ["Chelsea FC__md9-16"]
+  },
+  {
+    "qid": "q_104",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Manchester City FC win by exactly one goal in matchdays 1-16?",
+    "answer": { "type": "number", "value": 6 },
+    "gold_document_ids": [
+      "Manchester City FC__md1-8",
+      "Manchester City FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_105",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Manchester United FC draw after leading at half time in matchdays 1-24?",
+    "answer": { "type": "number", "value": 1 },
+    "gold_document_ids": [
+      "Manchester United FC__md1-8",
+      "Manchester United FC__md9-16",
+      "Manchester United FC__md17-24"
+    ]
+  },
+  {
+    "qid": "q_106",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Aston Villa FC finish with the same half-time and full-time score in matchdays 25-32?",
+    "answer": { "type": "number", "value": 3 },
+    "gold_document_ids": ["Aston Villa FC__md25-32"]
+  },
+  {
+    "qid": "q_107",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did Tottenham Hotspur FC play where both teams scored in matchdays 1-24?",
+    "answer": { "type": "number", "value": 15 },
+    "gold_document_ids": [
+      "Tottenham Hotspur FC__md1-8",
+      "Tottenham Hotspur FC__md9-16",
+      "Tottenham Hotspur FC__md17-24"
+    ]
+  },
+  {
+    "qid": "q_108",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did Newcastle United FC lose despite scoring at least one goal in matchdays 9-32?",
+    "answer": { "type": "number", "value": 6 },
+    "gold_document_ids": [
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_109",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did West Ham United FC play that ended 0-0 at full time during the whole season?",
+    "answer": { "type": "number", "value": 4 },
+    "gold_document_ids": [
+      "West Ham United FC__md1-8",
+      "West Ham United FC__md9-16",
+      "West Ham United FC__md17-24",
+      "West Ham United FC__md25-32",
+      "West Ham United FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_110",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Arsenal FC play where they scored more goals in the second half than in the first half during the whole season?",
+    "answer": { "type": "number", "value": 18 },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32",
+      "Arsenal FC__md33-38"
+    ]
+  },
+   {
+    "qid": "q_111",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many matches did Arsenal FC play in matchdays 9-16 where they scored at least one goal?",
+    "answer": { "type": "number", "value": 8 },
+    "gold_document_ids": ["Arsenal FC__md9-16"]
+  },
+  {
+    "qid": "q_112",
+    "difficulty": "2",
+    "answer_type": "number",
+    "question": "How many matches did Chelsea FC play in matchdays 1-8 that ended in a draw?",
+    "answer": { "type": "number", "value": 4 },
+    "gold_document_ids": ["Chelsea FC__md1-8"]
+  },
+  {
+    "qid": "q_113",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Manchester City FC win after drawing at half time in matchdays 1-16?",
+    "answer": { "type": "number", "value": 3 },
+    "gold_document_ids": [
+      "Manchester City FC__md1-8",
+      "Manchester City FC__md9-16"
+    ]
+  },
+  {
+    "qid": "q_114",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Manchester United FC lose after leading at half time in matchdays 1-24?",
+    "answer": { "type": "number", "value": 1 },
+    "gold_document_ids": [
+      "Manchester United FC__md1-8",
+      "Manchester United FC__md9-16",
+      "Manchester United FC__md17-24"
+    ]
+  },
+  {
+    "qid": "q_115",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Tottenham Hotspur FC play in matchdays 17-24 where neither team scored in the first half?",
+    "answer": { "type": "number", "value": 3 },
+    "gold_document_ids": ["Tottenham Hotspur FC__md17-24"]
+  },
+  {
+    "qid": "q_116",
+    "difficulty": "3",
+    "answer_type": "number",
+    "question": "How many matches did Aston Villa FC play in matchdays 25-32 where they scored exactly two goals?",
+    "answer": { "type": "number", "value": 2 },
+    "gold_document_ids": ["Aston Villa FC__md25-32"]
+  },
+  {
+    "qid": "q_117",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did Newcastle United FC play in matchdays 1-32 where they conceded the opening goal?",
+    "answer": { "type": "number", "value": 11 },
+    "gold_document_ids": [
+      "Newcastle United FC__md1-8",
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_118",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did West Ham United FC play in matchdays 9-32 where the full-time scoreline was decided by one goal?",
+    "answer": { "type": "number", "value": 8 },
+    "gold_document_ids": [
+      "West Ham United FC__md9-16",
+      "West Ham United FC__md17-24",
+      "West Ham United FC__md25-32"
+    ]
+  },
+  {
+    "qid": "q_119",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did Brentford FC play in the whole season where both teams scored in the first half?",
+    "answer": { "type": "number", "value": 5 },
+    "gold_document_ids": [
+      "Brentford FC__md1-8",
+      "Brentford FC__md9-16",
+      "Brentford FC__md17-24",
+      "Brentford FC__md25-32",
+      "Brentford FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_120",
+    "difficulty": "4",
+    "answer_type": "number",
+    "question": "How many matches did Everton FC play in matchdays 1-24 where they failed to score in the second half?",
+    "answer": { "type": "number", "value": 10 },
+    "gold_document_ids": [
+      "Everton FC__md1-8",
+      "Everton FC__md9-16",
+      "Everton FC__md17-24"
+    ]
+  },
+  {
+    "qid": "q_121",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Arsenal FC play in the whole season where the match was level at half time?",
+    "answer": { "type": "number", "value": 19 },
+    "gold_document_ids": [
+      "Arsenal FC__md1-8",
+      "Arsenal FC__md9-16",
+      "Arsenal FC__md17-24",
+      "Arsenal FC__md25-32",
+      "Arsenal FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_122",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Manchester City FC play in the whole season where they scored more goals in the second half than the first half?",
+    "answer": { "type": "number", "value": 20 },
+    "gold_document_ids": [
+      "Manchester City FC__md1-8",
+      "Manchester City FC__md9-16",
+      "Manchester City FC__md17-24",
+      "Manchester City FC__md25-32",
+      "Manchester City FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_123",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Liverpool FC play in the whole season where they won after being behind at half time?",
+    "answer": { "type": "number", "value": 4 },
+    "gold_document_ids": [
+      "Liverpool FC__md1-8",
+      "Liverpool FC__md9-16",
+      "Liverpool FC__md17-24",
+      "Liverpool FC__md25-32",
+      "Liverpool FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_124",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Chelsea FC play in the whole season where the score was 0-0 at half time?",
+    "answer": { "type": "number", "value": 14 },
+    "gold_document_ids": [
+      "Chelsea FC__md1-8",
+      "Chelsea FC__md9-16",
+      "Chelsea FC__md17-24",
+      "Chelsea FC__md25-32",
+      "Chelsea FC__md33-38"
+    ]
+  },
+  {
+    "qid": "q_125",
+    "difficulty": "5",
+    "answer_type": "number",
+    "question": "How many matches did Newcastle United FC play in the whole season where both teams scored and the match ended in a draw?",
+    "answer": { "type": "number", "value": 6 },
+    "gold_document_ids": [
+      "Newcastle United FC__md1-8",
+      "Newcastle United FC__md9-16",
+      "Newcastle United FC__md17-24",
+      "Newcastle United FC__md25-32",
+      "Newcastle United FC__md33-38"
+    ]
+  }
+]
